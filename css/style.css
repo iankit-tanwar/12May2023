@@ -1,0 +1,36 @@
+.a_tbdr{
+   
+   
+}
+
+header{
+    height: 110px;
+   
+    background-color: blueviolet;
+}
+main{
+    height: 600px;
+   
+}
+.left_aside{
+   
+   
+    float: left;
+}
+.section{
+ 
+   
+    float: left;
+}
+.right_aside{
+   
+ 
+    float: left;
+}
+
+
+footer{
+    height: 100px;
+    border: 1px dashed black;
+    background-color: #0099CC;
+}
